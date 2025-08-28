@@ -50,6 +50,15 @@ weather-now/
  └─ vite.config.js
 
 
+
+
+
+
+
+
+
+
+
 ---
 
 🔑 Setup Instructions

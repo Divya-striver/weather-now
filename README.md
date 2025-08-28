@@ -5,6 +5,9 @@ It fetches real-time weather data from the *OpenWeatherMap API* and displays tem
 
 ---
 
+## live Demo
+Check out the live Weather Now app here: [Live Demo] ( https://weather-now-snowy.vercel.app )
+
 ## 🚀 Features
 
 - 🌍 Search weather by *city name*
@@ -28,10 +31,6 @@ It fetches real-time weather data from the *OpenWeatherMap API* and displays tem
 ---
 
 ## 📂 Project Structure
-
-```bash
-
-
 
 weather-now/
  ├─ node_modules/
@@ -67,20 +66,12 @@ cd weather-now
 
 npm install
 
-
-3. Get your API key
-
-Copy your API key
-
-
-
-4. Create a .env file in the root folder:
-
-VITE_API_KEY=your_api_key_here
-
-
-5. Run the app
+3. Run the app
 
 npm run dev
 
 Open http://localhost:5173 in your browser 🚀
+
+##Deployment
+used vercel platform to deploy this project.
+

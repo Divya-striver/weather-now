@@ -30,17 +30,7 @@ It fetches real-time weather data from the *OpenWeatherMap API* and displays tem
 ## 📂 Project Structure
 
 ```bash
-weather-now/
-│── public/                                                                     # Static files
-│── src/
-│   ├── App.jsx        # Main app component
-│   ├── App.css        # Styling
-│   ├── main.jsx       # Entry point
-│   ├── components/    # Reusable UI components
-│   └── assets/        # Images/icons
-│── package.json
-│── vite.config.js
-│── README.md
+
 
 
 weather-now/

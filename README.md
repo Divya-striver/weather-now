@@ -3,11 +3,9 @@
 Weather-Now is a simple and responsive weather application built with *React + Vite*.  
 It fetches real-time weather data from the *open-Meteo API* and displays city name,temperature, humidity, wind speed for any city worldwide.
 
----
-
-## live Demo
 Check out the live Weather Now app here: [Live Demo] ( https://weather-now-snowy.vercel.app )
 
+---
 ## 🚀 Features
 
 - 🌍 Search weather by *city name*

@@ -1,7 +1,7 @@
 🌦️ Weather-Now
 
 Weather-Now is a simple and responsive weather application built with *React + Vite*.  
-It fetches real-time weather data from the *OpenWeatherMap API* and displays temperature, humidity, wind speed, and weather conditions for any city worldwide.
+It fetches real-time weather data from the *open-Meteo API* and displays city name,temperature, humidity, wind speed for any city worldwide.
 
 ---
 
@@ -26,7 +26,7 @@ Check out the live Weather Now app here: [Live Demo] ( https://weather-now-snowy
 
 - *Frontend:* React (Vite, JSX, CSS)
 - *API:* [Open-Meteo API](https://open-meteo.com/)
-- *Deployment:* GitHub Pages
+- *Deployment:* vercel platform
 
 ---
 
